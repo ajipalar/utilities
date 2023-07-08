@@ -2,6 +2,7 @@
 ## Installation
 
 `git clone https://github.com/ajipalar/utilities.git`
+
 `conda install -c conda-forge biotite click`
 
 ## Contents
